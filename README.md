@@ -54,16 +54,5 @@ O sistema simula a manipulação de um carrinho de compras, onde é possível ad
 ## Possível melhoria futura
 - **Gerenciamento de estoque:** Controlar a quantidade disponível de cada item no estoque, para evitar que itens sejam adicionados ao carrinho quando estiverem esgotados.
 ---
----
----
----
----
----
----
----
----
----
-
-
 
 _Projeto criado para fins de estudo e prática em Java._
